@@ -1,4 +1,4 @@
-# Software for data acquisition from PTMB
+# Software for Pressure & Temperature Data Acquisition
 Developed by Hubert Hellwig	<sup>a</sup> under supervision of Jean-Christophe M. Monbaliu<sup>a,b</sup><br/><br/>
 &nbsp; *a) Center for Integrated Technology and Organic Synthesis (CiTOS), MolSys Research Unit University of Liège,*<br/>
 &nbsp; &nbsp; &nbsp; *B6a, Room 3/19, Allée du Six Août 13, 4000 Liège (Sart Tilman) (Belgium); webpage: https://www.citos.uliege.be*<br/>
