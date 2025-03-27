@@ -28,3 +28,7 @@ This system was used with a Flom UI-22-110DC HPLC-type pump during flow chemistr
 
 ### Acknowledgements
 This research was supported by the U.S. Food and Drug Administration under the FDA BAA-22-00123 program, Award Number 75F40122C00192. The authors acknowledge the University of Liège and the “Fonds de la Recherche Scientifique de Belgique (F.R.S.-FNRS)” (Incentive grant for scientific research MIS under grant No F453020F, JCMM).
+
+### License
+This project is licensed under the CERN Open Hardware Licence Version 2 - Permissive (CERN-OHL-P).
+You are free to use, modify, and distribute the hardware and associated documentation under the terms of this license.
