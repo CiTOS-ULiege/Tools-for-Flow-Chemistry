@@ -31,7 +31,7 @@ Developed by Hubert Hellwig	<sup>a</sup> under supervision of Jean-Christophe M.
 - **Run the script** <br>
 &nbsp; Script can be run via command line (type `python main_pyptmb.py`) or by double-clicking the file "*main_pyptmb.py*" <br>
 
-Once the program runs, it will display the pressure and temperature values in the command line and create a text file with the current date in the filename. Example: "*PTMB1_2025-01-20_223613.txt*" The file will be updated continuously while the program is running, with a new data row created every *data-saving interval*. The created file can also be accessed in real-time by another program to process the data (e.g., to plot graphs). Real-time data plotting was tested with KST-2 software *Kst-2.0.8-win32.exe* (https://kst-plot.kde.org/ or https://sourceforge.net/projects/kst/files/Kst%202.0.8/Kst-2.0.8-win32.exe/download/). <br>
+After starting the program, a few seconds are required for the Arduino to restart (this is normal behavior), and then the serial communication will begin. Once the program runs, it will display the pressure and temperature values in the command line and create a text file with the current date in the filename. Example: "*PTMB1_2025-01-20_223613.txt*" The file will be updated continuously while the program is running, with a new data row created every *data-saving interval*. The created file can also be accessed in real-time by another program to process the data (e.g., to plot graphs). Real-time data plotting was tested with KST-2 software *Kst-2.0.8-win32.exe* (https://kst-plot.kde.org/ or https://sourceforge.net/projects/kst/files/Kst%202.0.8/Kst-2.0.8-win32.exe/download/). <br>
 
 ## Data Format
 Each row in the output file follows this structure: <br>
