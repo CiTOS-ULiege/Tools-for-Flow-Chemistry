@@ -1,8 +1,8 @@
-# Flow Nitration Platform
+# Tools for Flow Chemistry
 
 ## Research Context
 
-The tools described in this repository were developed as part of the research published in:
+The tools described in this repository were developed as part of the research on the furfural nitration platform published in:
 
 ### **"A Continuous Flow Generator of Acetyl Nitrate for the Synthesis of Nitrofuran-Based Pharmaceuticals"**
 
@@ -50,14 +50,21 @@ All described tools were developed by **Hubert Hellwig**<sup>a</sup> under the s
 This repository is organized into multiple subfolders, each containing a specific project:
 
 - **Pressure transducer** <br> 
-&nbsp;&nbsp;&nbsp; Pressure sensor holder characterized by great chemical resistance, to be used with ceramic pressure sensor 
+&nbsp;&nbsp;&nbsp; A pressure sensor holder characterized by great chemical resistance, to be used with ceramic pressure sensor. <br>
+&nbsp;&nbsp;&nbsp; See: "Pressure-Transducer-CiTOS-V1"
 - **Electrically actuated valves** <br>
-&nbsp;&nbsp;&nbsp; Low-cost modification of commercially availabe valves enabling their automation
-- **Device for pressure and temperature measurement (PTMB)**
-- **Continuous-flow gravity separator with magnetic phase boundary tracking**
-- **Nitric acid dosing controller**
+&nbsp;&nbsp;&nbsp; A low-cost modification of commercially availabe valves enabling their automation. <br>
+&nbsp;&nbsp;&nbsp; See: "Electrically-Actuated-Valves-for-Flow-Chemistry"
+- **Device for pressure and temperature measurement (PTMB)** <br>
+&nbsp;&nbsp;&nbsp; An affordable device for acquisition and display of data from sensors based Ardunino. <br>
+&nbsp;&nbsp;&nbsp; See: "PTMB-Pressure-Temperature-Measurement-Box"
+- **Continuous-flow gravity separator with magnetic phase boundary tracking** <br>
+- **Nitric acid dosing controller** <br>
 - **Filtration and separation module control unit**
-- **Software for pressure and temperature acquisition**
+- **Software for pressure and temperature acquisition** <br>
+&nbsp;&nbsp;&nbsp; A simple Python code for acquisition of data from PTMB in real-time and saving it to file. <br>
+&nbsp;&nbsp;&nbsp; See: "..."
+
 - **Prototype software for collection and control used during research**
 
 Each subfolder contains relevant design files, documentation and developed software implementations.
