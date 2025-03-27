@@ -7,6 +7,13 @@ Developed by Hubert Hellwig	<sup>a</sup> under supervision of Jean-Christophe M.
 
 &nbsp; *E-mail: hhellwig@uliege.be; jc.monbaliu@uliege.be*
 
-This project outlines the construction of a simple, cost-effective data acquisition device for pressure sensors and thermocouples. It provides an affordable solution based on an Arduino Uno board, along with the ADS1115 analog-to-digital converter for pressure sensor readings and the MCP9600-based thermocouple amplifier for temperature measurements. 
+This project presents the design and construction of a simple, cost-effective data acquisition device for pressure sensors and thermocouples. It offers an affordable solution utilizing an Arduino Uno board, the ADS1115 analog-to-digital converter for pressure sensor readings, and the MCP9600-based thermocouple amplifier for temperature measurements.
 
-The schematic of electronic connections, Arduino Uno code, 3D-design files for 3D-prinitn of the case, and a detailed description of the assembly process are all available within this repository.
+The repository includes the electronic schematic, Arduino Uno code, 3D design files for printing the enclosure, and a detailed assembly guide.
+
+### Acknowledgements
+This research was supported by the U.S. Food and Drug Administration under the FDA BAA-22-00123 program, Award Number 75F40122C00192. The authors acknowledge the University of Liège and the “Fonds de la Recherche Scientifique de Belgique (F.R.S.-FNRS)” (Incentive grant for scientific research MIS under grant No F453020F, JCMM).
+
+### License
+This project is licensed under the CERN Open Hardware Licence Version 2 - Permissive (CERN-OHL-P).
+You are free to use, modify, and distribute the hardware and associated documentation under the terms of this license.
