@@ -39,15 +39,9 @@ The tools described in this repository were developed as part of the research pu
 
 ---
 
-### This repository contains useful hardware tools for use in flow chemistry
+### This repository contains subfolders with useful hardware tools for use in flow chemistry
 
-Developed by **Hubert Hellwig**<sup>a</sup> under the supervision of **Jean-Christophe M. Monbaliu**<sup>a,h</sup>
-
-*a) Center for Integrated Technology and Organic Synthesis (CiTOS), MolSys Research Unit, University of Liège,*  
-&nbsp;&nbsp;&nbsp; *B6a, Room 3/19, Allée du Six Août 13, 4000 Liège (Sart Tilman), Belgium*  
-&nbsp;&nbsp;&nbsp; *Webpage: [www.citos.uliege.be](https://www.citos.uliege.be)*  
-*h) WEL Research Institute, Avenue Pasteur 6, B-1300 Wavre, Belgium*  
-
+All described tools were developed by **Hubert Hellwig**<sup>a</sup> under the supervision of **Jean-Christophe M. Monbaliu**<sup>a,h</sup>
 *E-mail: [hhellwig@uliege.be](mailto:hhellwig@uliege.be); [jc.monbaliu@uliege.be](mailto:jc.monbaliu@uliege.be)*
 
 ---
@@ -55,8 +49,10 @@ Developed by **Hubert Hellwig**<sup>a</sup> under the supervision of **Jean-Chri
 ## **Repository Content**
 This repository is organized into multiple subfolders, each containing a specific project:
 
-- **Valves**
-- **Pressure transducer**
+- **Pressure transducer** <br> 
+&nbsp;&nbsp;&nbsp; Pressure sensor holder characterized by great chemical resistance, to be used with ceramic pressure sensor 
+- **Electrically actuated valves** <br>
+&nbsp;&nbsp;&nbsp; Low-cost modification of commercially availabe valves enabling their automation
 - **Device for pressure and temperature measurement (PTMB)**
 - **Continuous-flow gravity separator with magnetic phase boundary tracking**
 - **Nitric acid dosing controller**
