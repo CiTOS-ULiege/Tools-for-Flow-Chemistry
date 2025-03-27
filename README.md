@@ -53,23 +53,29 @@ This repository is organized into multiple subfolders, each containing a specifi
 &nbsp;&nbsp;&nbsp; A pressure sensor holder to be used with ceramic pressure sensors, creating a pressure transducer <br>
 &nbsp;&nbsp;&nbsp; characterized by excellent chemical resistance. <br> 
 &nbsp;&nbsp;&nbsp; See: "Pressure-Transducer-CiTOS-V1"
+
 - **Electrically actuated valves** <br> 
 &nbsp;&nbsp;&nbsp; A low-cost modification of commercially available valves enabling their automation. <br> 
 &nbsp;&nbsp;&nbsp; See: "Electrically-Actuated-Valves-for-Flow-Chemistry"
+
 - **Device for pressure and temperature measurement (PTMB)** <br> 
 &nbsp;&nbsp;&nbsp; An affordable device for the acquisition and display of data from sensors based on Arduino. <br> 
 &nbsp;&nbsp;&nbsp; See: "PTMB-Pressure-Temperature-Measurement-Box"
+
 - **Software for pressure and temperature acquisition** <br> 
 &nbsp;&nbsp;&nbsp; A simple Python script for the real-time acquisition of data from PTMB and saving it to a file. <br> 
 &nbsp;&nbsp;&nbsp; See: "pyPTMB_v2"
-- **Nitric acid dosing controller** <br> 
+
+- **Nitric acid dosing controller** <br>
 &nbsp;&nbsp;&nbsp; An Arduino-based device designed to improve the safety and reliability of nitric acid dosing. <br> 
 &nbsp;&nbsp;&nbsp; See: "NADC-Nitric-Acid-Dosing-Controller" <br>
-- **Continuous-flow gravity separator with magnetic phase boundary tracking** <br>
+
+- **Filtration and separation module control unit (FSM)** <br>
+&nbsp;&nbsp;&nbsp; **Including continuous-flow gravity separator with magnetic phase boundary tracking** <br>
+&nbsp;&nbsp;&nbsp; A system allowing non-interrupted filtration followed by continuous separation of two immiscible liquids <br>
+&nbsp;&nbsp;&nbsp; See: "FSMCU_Filtration_Separation_Control_Module" <br>
 
 
-
-- **Filtration and separation module control unit**
 
 - **Prototype software for collection and control used during research**
 
