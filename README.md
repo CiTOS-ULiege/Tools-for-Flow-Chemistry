@@ -63,6 +63,8 @@ This repository is organized into multiple subfolders, each containing a specifi
 &nbsp;&nbsp;&nbsp; See: "pyPTMB_v2"
 - **Continuous-flow gravity separator with magnetic phase boundary tracking** <br>
 - **Nitric acid dosing controller** <br>
+&nbsp;&nbsp;&nbsp; An Arduino-based device designed to improve the safety and reliability of nitric acid dosing. <br>
+&nbsp;&nbsp;&nbsp; See: "NADC-Nitric-Acid-Dosing-Controller" <br>
 - **Filtration and separation module control unit**
 
 
