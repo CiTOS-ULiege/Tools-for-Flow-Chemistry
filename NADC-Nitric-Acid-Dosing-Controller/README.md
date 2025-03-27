@@ -15,14 +15,15 @@ Developed by Hubert Hellwig	<sup>a</sup> under supervision of Jean-Christophe M.
 - LED indicators for valve positions
 - LCD display for detailed status
 
-Additional information
+### Additional information
 - Additional details, schematics, and software are available in this part of the repository
 - Modification of valves used in NADM is available within this repository ("Electrically-Actuated-Valves-for-Flow-Chemistry")
+- The housing for the NADC electronic circuit was adapted from the PTMB housing available within this repository ("PTMB-Pressure-Temperature-Measurement-Box")
 
 Construction of this device requires basic knowledge in electronics (soldering, understanding of simple circuit diagrams) and basic knowledge in Arduino programming. Modifications of the Arduino code may be required to fit this device for use with different servo motors or valves.
 
 
-The system integrates a Flom UI-22-110DC HPLC-type pump, ensuring ergonomic priming, rinsing, and plunger seal compartment washing. The pump is accompanied by a balance used as a mass-flow meter, allowing flow rate measurement of corrosive media. Data from the balance and remote control of the pump were managed via a PC, utilizing a prototypical software written in Python for real-time monitoring and control.
+This system was used with a Flom UI-22-110DC HPLC-type pump during flow chemistry research, ensuring ergonomic priming, rinsing, and plunger seal compartment washing. The pump was accompanied by a balance used as a mass-flow meter, allowing flow rate measurement of highly corrosive media (90% nitric acid). The acquisition of data from the balance and remote control of the pump were managed via a PC, utilizing a prototypical software written in Python for real-time monitoring and control.
 
 
 ### Acknowledgements
