@@ -32,3 +32,5 @@ This research was supported by the U.S. Food and Drug Administration under the F
 ### License
 This project is licensed under the CERN Open Hardware Licence Version 2 - Permissive (CERN-OHL-P).
 You are free to use, modify, and distribute the hardware and associated documentation under the terms of this license.
+
+The code in this repository is licensed under the **MIT License**. You are free to use, modify, and distribute the code under the terms of this license.
