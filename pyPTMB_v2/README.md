@@ -44,3 +44,10 @@ Example output in the created text file <br>
 `1737408977.7,21.31,1.2` <br>
 `1737408979.0,21.31,1.2` <br>
 `1737408980.4,21.5,1.19` <br>
+
+
+#### The software is licensed under the MIT License, Hubert Hellwig, 2025.
+
+
+### Acknowledgements
+This research was supported by the U.S. Food and Drug Administration under the FDA BAA-22-00123 program, Award Number 75F40122C00192. The authors acknowledge the University of Liège and the “Fonds de la Recherche Scientifique de Belgique (F.R.S.-FNRS)” (Incentive grant for scientific research MIS under grant No F453020F, JCMM).
