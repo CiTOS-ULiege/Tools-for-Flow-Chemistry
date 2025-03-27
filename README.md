@@ -58,12 +58,13 @@ This repository is organized into multiple subfolders, each containing a specifi
 - **Device for pressure and temperature measurement (PTMB)** <br>
 &nbsp;&nbsp;&nbsp; An affordable device for acquisition and display of data from sensors based Ardunino. <br>
 &nbsp;&nbsp;&nbsp; See: "PTMB-Pressure-Temperature-Measurement-Box"
+- **Software for pressure and temperature acquisition** <br>
+&nbsp;&nbsp;&nbsp; A simple Python code for acquisition of data from PTMB in real-time and saving it to file. <br>
+&nbsp;&nbsp;&nbsp; See: "pyPTMB_v2"
 - **Continuous-flow gravity separator with magnetic phase boundary tracking** <br>
 - **Nitric acid dosing controller** <br>
 - **Filtration and separation module control unit**
-- **Software for pressure and temperature acquisition** <br>
-&nbsp;&nbsp;&nbsp; A simple Python code for acquisition of data from PTMB in real-time and saving it to file. <br>
-&nbsp;&nbsp;&nbsp; See: "..."
+
 
 - **Prototype software for collection and control used during research**
 
