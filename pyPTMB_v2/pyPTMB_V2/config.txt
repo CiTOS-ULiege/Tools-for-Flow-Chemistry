@@ -1,0 +1,41 @@
+	pyPTMB
+	Python software for Pressure and Temperature Measurement Box
+
+	Config file for serial communication and data saving
+
+The device and software was created in CiTOS
+Center For Integrated Technology and Organic Synthesis, ULiege, Belgium
+
+Author: Hubert Hellwig, postdoctoral researcher
+
+Current version: v2, from: Jan 2025
+
+
+
+Below is the configuration file:
+Please modify only values in brackets "('xyz')"
+
+Device communication config
+COM ports settings:
+'name', 'addr', 'baud', 'timeout'
+('serial1', 'COM4', 115200, 5)
+End of COM settings
+
+
+Other configurations
+Save file name and path
+File name will be followed by actual data, time and .txt extension
+Date and time format: YYYY-MM-DD_hhmmss
+Example: 'PTMB1_2024-09-18_152601.txt'
+
+File name:
+('PTMB1_')
+Save file path:
+('C:\Data\PTMB_press_temp_saving')
+End of save file settings
+
+
+Data saving period [s]:
+(1.0)
+End of saving period settings
+End of configuration file
