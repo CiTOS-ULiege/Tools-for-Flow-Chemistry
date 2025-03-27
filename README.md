@@ -74,6 +74,11 @@ Each subfolder contains relevant design files, documentation and developed softw
 
 ---
 
-## **Acknowledgements**
+### Acknowledgements
 This research was supported by the U.S. Food and Drug Administration under the FDA BAA-22-00123 program, Award Number 75F40122C00192. The authors acknowledge the University of Liège and the “Fonds de la Recherche Scientifique de Belgique (F.R.S.-FNRS)” (Incentive grant for scientific research MIS under grant No F453020F, JCMM).
 
+### License
+
+This project is licensed under the **CERN Open Hardware License Version 2 - Permissive (CERN-OHL-P)** for the hardware design and associated documentation. You are free to use, modify, and distribute the hardware under the terms of this license.
+
+The code in this repository is licensed under the **MIT License**. You are free to use, modify, and distribute the code under the terms of this license.
