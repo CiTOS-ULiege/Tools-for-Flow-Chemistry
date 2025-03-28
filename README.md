@@ -41,7 +41,7 @@ The tools described in this repository were developed as part of the research on
 
 ### This repository contains subfolders with useful hardware tools for use in flow chemistry
 
-All described tools were developed by **Hubert Hellwig**<sup>a</sup> under the supervision of **Jean-Christophe M. Monbaliu**<sup>a,h</sup>
+All described tools were developed by **Hubert Hellwig**<sup>a</sup> under the supervision of **Jean-Christophe M. Monbaliu**<sup>a,h</sup> <br>
 *E-mail: [hhellwig@uliege.be](mailto:hhellwig@uliege.be); [jc.monbaliu@uliege.be](mailto:jc.monbaliu@uliege.be)*
 
 ---
