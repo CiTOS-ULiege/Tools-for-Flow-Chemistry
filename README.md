@@ -72,14 +72,17 @@ This repository is organized into multiple subfolders, each containing a specifi
 
 - **Filtration and separation module control unit (FSM)** <br>
 &nbsp;&nbsp;&nbsp; **Including continuous-flow gravity separator with magnetic phase boundary tracking** <br>
-&nbsp;&nbsp;&nbsp; A system allowing non-interrupted filtration followed by continuous separation of two immiscible liquids <br>
+&nbsp;&nbsp;&nbsp; A system allowing non-interrupted filtration followed by continuous separation of two immiscible liquids. <br>
 &nbsp;&nbsp;&nbsp; See: "FSMCU_Filtration_Separation_Control_Module" <br>
 
 - **UV-Vis Flow Cell Design** <br>
 &nbsp;&nbsp;&nbsp; A 3D-printed holder for 1/16” PFA tubing, creating a chemically resistant UV-Vis flow cell. <br> 
 &nbsp;&nbsp;&nbsp; See: "UV-Vis-Flow-Cell-V1" <br>
 
-- **Prototype software for collection and control used during research**
+- **Furfural Nitration Data Acquisition & Process Control Software** <br>
+&nbsp;&nbsp;&nbsp; A Python-based software developed for data acquisition and process control during the research. <br>
+&nbsp;&nbsp;&nbsp; This repository also includes examples of saved data and some plotted charts. <br>
+&nbsp;&nbsp;&nbsp; See: "FUR_DACP" <br>
 
 Each subfolder contains relevant design files, documentation and developed software implementations.
 
