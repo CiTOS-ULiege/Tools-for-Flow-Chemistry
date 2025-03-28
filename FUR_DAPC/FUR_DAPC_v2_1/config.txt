@@ -1,0 +1,20 @@
+DAPC - Data Acquisition Process Control - config file
+
+Device communication config
+COM ports settings:
+('name', 'addr', 'baud', 'timeout')
+('nadcSer', 'COM6', 115200, 5)
+('flomSer', 'COM12', 9600, 2)
+('balanceSer', 'COM9', 9600, 2)
+('ptmb2Ser', 'COM16', 115200, 5)
+('ptmb3Ser', 'COM15', 115200, 5)
+('fsmcuSer', 'COM18', 115200, 5)
+('knauerP4Ser', 'COM3', 9600, 2)
+('knauerP5Ser', 'COM5', 9600, 2)
+('knauerP9Ser', 'COM19', 9600, 2)
+End of COM settings
+
+Other configurations
+Data saving period [s]
+1
+End of configuration file
