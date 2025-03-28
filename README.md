@@ -75,7 +75,9 @@ This repository is organized into multiple subfolders, each containing a specifi
 &nbsp;&nbsp;&nbsp; A system allowing non-interrupted filtration followed by continuous separation of two immiscible liquids <br>
 &nbsp;&nbsp;&nbsp; See: "FSMCU_Filtration_Separation_Control_Module" <br>
 
-
+- **UV-Vis Flow Cell Design**<be>
+&nbsp;&nbsp;&nbsp; A 3D-printed holder for 1/16” PFA tubing, creating a chemically resistant UV-Vis flow cell. <br> 
+&nbsp;&nbsp;&nbsp; See: "UV-Vis-Flow-Cell-V1" <br>
 
 - **Prototype software for collection and control used during research**
 
