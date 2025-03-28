@@ -6,7 +6,7 @@ Developed by Hubert Hellwig	<sup>a</sup> under supervision of Jean-Christophe M.
 
 &nbsp; *E-mail: hhellwig@uliege.be; jc.monbaliu@uliege.be*
 
-## A Holder for 1/16" PFA Tubing Allowing Creation of a Simple UV-Vis Flow Cell
+## A holder for 1/16" PFA tubing allowing creation of a simple UV-Vis flow cell
 
 This device allows the creation of a UV-Vis flow cell using a spectrometer and light source with optical fibers equipped with SMA connectors (Avantes, FC-UVIR600-1) without additional optics. The flow cell created in this manner has a limited range due to the absorbance of PFA—measurements below approximately 300 nm are not possible. The optical path length primarily depends on the internal diameter of the PFA tubing.
 The device was used with an Avantes spectrometer (AvaSpecULS2048CL-EVO)) and light source (AvaLight-D(H)-S).
