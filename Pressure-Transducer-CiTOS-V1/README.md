@@ -10,7 +10,7 @@ Developed by Hubert Hellwig	<sup>a</sup> under supervision of Jean-Christophe M.
 ## Holder for a ceramic pressure sensor with excellent chemical compatibility
 A holder for a Metallux ceramic pressure sensor with excellent chemical compatibility was designed and successfully tested.
 
-**This device is particularly useful for research in the field of flow chemistry.**
+**This pressure transducer is suitable for research in the field of flow chemistry**
 
 ### Connectors:
  - Standard HPLC-type connectors (1/4-28UNF)
