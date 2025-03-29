@@ -25,8 +25,8 @@ The tools described in this repository were developed as part of the research on
 &nbsp;&nbsp;&nbsp; Department of Chemistry, University of Puerto Rico – Mayagüez, Mayagüez, Puerto Rico 00681, USA  
 
 *e) Prof. Dr. Md. Noor-E-Alam*  
-&nbsp;&nbsp;&nbsp; Department of Mechanical and Industrial Engineering, College of Engineering, Center for Health Policy and Healthcare Research,<br> 
-&nbsp;&nbsp;&nbsp; Northeastern University, Boston, Massachusetts 02115, USA  
+&nbsp;&nbsp;&nbsp; Department of Mechanical and Industrial Engineering, College of Engineering, <br> 
+&nbsp;&nbsp;&nbsp; Center for Health Policy and Healthcare Research, Northeastern University, Boston, Massachusetts 02115, USA  
 
 *f) Prof. Dr. A. S. Myerson, Prof. Dr. T. Stelzer*  
 &nbsp;&nbsp;&nbsp; Department of Chemical Engineering, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139, USA  
