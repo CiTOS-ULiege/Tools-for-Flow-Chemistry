@@ -4,7 +4,7 @@
 
 The tools described in this repository were developed as part of the research on the furfural nitration platform published in:
 
-### **"Continuous Flow Synthesis of Nitrofuran Pharmaceuticals using Acetyl Nitrate"**
+### **"Continuous Flow Synthesis of Nitrofuran Pharmaceuticals Using Acetyl Nitrate"**
 
 **Hubert Hellwig**<sup>a</sup>, **Loïc Bovy**<sup>a</sup>, **Kristof Van Hecke**<sup>b</sup>, **Cornelis P. Vlaar**<sup>c</sup>, **Rodolfo J. Romañach**<sup>d</sup>, **Md. Noor-E-Alam**<sup>e</sup>, **Allan S. Myerson**<sup>f</sup>, **Torsten Stelzer**<sup>c,f,g</sup>, and **Jean-Christophe M. Monbaliu**<sup>a,h</sup>
 
