@@ -28,7 +28,7 @@ A holder for a Metallux ceramic pressure sensor with excellent chemical compatib
 - FFKM
 - Al<sub>2</sub>O<sub>3</sub> ceramic
 
-#### More detailed instructions and photographs for DIY assembly are available in the document: "Pressure_Transducer_CiTOS_description_v1.pdf"
+#### More detailed instructions and photographs for DIY assembly are available in the document: "Pressure_transducer_MPS_CiTOS_V1_description.pdf"
 
 The holder was designed using Autodesk Fusion360, and the design files, including .step files, are available in this repository.
 
