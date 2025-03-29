@@ -46,6 +46,11 @@ All described tools were developed by **Hubert Hellwig**<sup>a</sup> under the s
 
 ---
 
+### How to cite this material
+DOI: 10.5281/zenodo.15106903
+
+---
+
 ## **Repository Content**
 This repository is organized into multiple subfolders, each containing a specific project:
 
